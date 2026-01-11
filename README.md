@@ -17,6 +17,15 @@ Key goals:
 
 ---
 
+## 🛠 How to run locally
+
+- Install dependencies: `npm install`
+- Setup database & Prisma
+- Run dev server: `npm run dev`
+
+---
+
+
 ## 🧱 Tech Stack
 
 * **Next.js App Router**
